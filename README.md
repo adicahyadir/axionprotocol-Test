@@ -1,8 +1,8 @@
-# README untuk EnigmaticTokenDao 
+# README for EnigmaticTokenDao
 
-## Deskripsi
+## Description
 
-EnigmaticTokenDao (ETD) TEST 
+EnigmaticTokenDao (ETD) Testnet
 
 ![EnigmaticTokenDao Logo](https://github.com/adicahyadir/axionprotocol-Test/blob/main/13.jpg)
 
@@ -10,31 +10,25 @@ EnigmaticTokenDao (ETD) TEST
 
 ```json
 {
-    "name": "EnigmaticTokenDao",
-    "symbol": "ETD",
-    "description": "Enigmatic Dao",
-    "image": "https://github.com/adicahyadir/axionprotocol-Test/blob/main/13.jpg"
+     "name": "EnigmaticTokenDao",
+     "symbol": "ETD",
+     "description": "Enigmatic Dao",
+     "image": "https://github.com/adicahyadir/axionprotocol-Test/blob/main/13.jpg"
 }
 ```
 
-## Sosial Media
+## Social media
 
-Jangan lupa untuk mengikuti kami di Twitter untuk mendapatkan update terbaru:
+Follow Twitter to get the latest updates:
 
 - [Twitter: @AxionProtocol](https://twitter.com/AxionProtocol)
 
-## Panduan Lengkap
+## Complete Guide
 
-Untuk informasi lebih lanjut tentang cara menggunakan EnigmaticTokenDao dan fitur-fitur yang tersedia, silakan kunjungi panduan lengkap kami di:
+- [Guide Full](https://docs.axionprotocol.com/competitions/incentivized-testnet-beta)
 
-- [Guide Full](https://docs.axionprotocol.com/competitions/incentivised-testnet-beta)
+## Contribution
 
-## Kontribusi
-
-Kami sangat menghargai kontribusi dari komunitas. Jika Anda tertarik untuk berkontribusi dalam pengembangan EnigmaticTokenDao, silakan buka [Panduan Kontribusi](CONTRIBUTING.md) kami.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+We really appreciate contributions from the community. If you are interested in contributing to the development of EnigmaticTokenDao, please visit our [Contribution Guide](CONTRIBUTING.md).
 
 ---
